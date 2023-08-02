@@ -1,6 +1,6 @@
 Sure! Here's the text in Markdown format:
 
-# Good Practices in Software Development - Key Takeaways and Areas of Improvement
+# Good Practices in Software Development
 
 
 ## 1. What is your one major takeaway from each one of the six sections?
